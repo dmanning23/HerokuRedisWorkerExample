@@ -1,0 +1,4 @@
+rq
+fastapi
+uvicorn[standard]
+gunicorn
